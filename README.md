@@ -1,4 +1,4 @@
-# Biblioteca Técnica :books:
+# Biblioteca Técnica WebGlobal :books:
 Biblioteca Digital de Livros Técnicos
 
 ## Python
