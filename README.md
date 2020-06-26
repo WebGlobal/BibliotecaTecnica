@@ -1,30 +1,30 @@
-# Biblioteca Técnica 📚
+# Biblioteca Técnica :books:
 Biblioteca Digital de Livros Técnicos
 
 ## Python
 
-* A Byte of Python [Swaroop Chitlur].pdf
-* Automate the Boring Stuff with Python [Al Sweigart, 2015].pdf
-* Data Science from Scratch - First Principles with Python [Joel Grus, 2015].pdf
-* Data Structures and Algorithms in Python [Goodrich, Tamassia, Goldwasser, 2013].pdf
-* Deep Learning with Python - A Hands-on Introduction [Nikhil Ketkar, 2017].pdf
-* Deep Learning with Python [Chollet, 2018].pdf
-* Hands-On Machine Learning with Scikit-Learn and TensorFlow [Aurélien Géron, 2017].pdf
-* How to Tango with Django [L. Azzopardi, D. Maxwell, 2018].pdf
-* Introducing Python - Modern Computing in Simple Packages [Bill Lubanovic, 2015].pdf
-* Lean Python - Learn Just Enough Python to Build Useful Tools [Paul Gerrard, 2016].pdf
-* Learning Python - 3th Edition [Mark Lutz, 2008].pdf
-* Learning Python, 5th Edition [Mark Lutz, 2013].pdf
-* Lear Python The Hard Way [Zed A. Shaw, 2014].pdf
-* Natural Language Processing with Python [S. Bird, E. Klein, and E. Loper, 2009].pdf
-* Programming Computer Vision with Python [Jan Erik Solem, 2012].pdf
-* Python All in One For Dummies [John Shovic and Alan Simpson, 2019].pdf
-* Python Crash Course [Eric Matthes, 2016].pdf
-* Python for Data Analysis - 2nd-Edition [William McKinney, 2018].pdf
-* Python Machine Learning [Sebastian Raschka, 2015].pdf
-* Python Pocket Reference, 5th edition [Mark Lutz, 2014].pdf
-* Think Python, 2nd Edition [Allen Downey, 2016].pdf
-* Web Scrapping with Python [Ryan Mitchell, 2015].pdf
+* A Byte of Python [Swaroop Chitlur]
+* Automate the Boring Stuff with Python [Al Sweigart, 2015]
+* Data Science from Scratch - First Principles with Python [Joel Grus, 2015]
+* Data Structures and Algorithms in Python [Goodrich, Tamassia, Goldwasser, 2013]
+* Deep Learning with Python - A Hands-on Introduction [Nikhil Ketkar, 2017]
+* Deep Learning with Python [Chollet, 2018]
+* Hands-On Machine Learning with Scikit-Learn and TensorFlow [Aurélien Géron, 2017]
+* How to Tango with Django [L. Azzopardi, D. Maxwell, 2018]
+* Introducing Python - Modern Computing in Simple Packages [Bill Lubanovic, 2015]
+* Lean Python - Learn Just Enough Python to Build Useful Tools [Paul Gerrard, 2016]
+* Learning Python - 3th Edition [Mark Lutz, 2008]
+* Learning Python, 5th Edition [Mark Lutz, 2013]
+* Lear Python The Hard Way [Zed A. Shaw, 2014]
+* Natural Language Processing with Python [S. Bird, E. Klein, and E. Loper, 2009]
+* Programming Computer Vision with Python [Jan Erik Solem, 2012]
+* Python All in One For Dummies [John Shovic and Alan Simpson, 2019]
+* Python Crash Course [Eric Matthes, 2016]
+* Python for Data Analysis - 2nd-Edition [William McKinney, 2018]
+* Python Machine Learning [Sebastian Raschka, 2015]
+* Python Pocket Reference, 5th edition [Mark Lutz, 2014]
+* Think Python, 2nd Edition [Allen Downey, 2016]
+* Web Scrapping with Python [Ryan Mitchell, 2015]
 
 ## ElasticSearch
 
@@ -50,9 +50,9 @@ Biblioteca Digital de Livros Técnicos
 
 ## HTTP:
 
-* HTTP Essentials [Stephen Thomas, 2001] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/HTTP/)
-* HTTP - The Definitive Guide [D. Gourley, B. Totty, 2002] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/HTTP/)
-* Learning HTTP2 [Stephen Ludin, Javier Garza, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/HTTP/)
+* HTTP Essentials [Stephen Thomas, 2001] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/HTTP/HTTP%20Essentials%20%5BStephen%20Thomas%2C%202001%5D.pdf)
+* HTTP - The Definitive Guide [D. Gourley, B. Totty, 2002] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/HTTP/HTTP%20-%20The%20Definitive%20Guide%20%5BD.%20Gourley%2C%20B.%20Totty%2C%202002%5D.pdf)
+* Learning HTTP2 [Stephen Ludin, Javier Garza, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/HTTP/Learning%20HTTP2%20%5BStephen%20Ludin%2C%20Javier%20Garza%2C%202017%5D.pdf)
 
 ## Nginx:
 
