@@ -1,7 +1,7 @@
 # Biblioteca Técnica WebGlobal :books:
 Biblioteca Digital de Livros Técnicos
 
-## Python
+## :pushpin: Python
 
 * A Byte of Python [Swaroop Chitlur] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/A%20Byte%20of%20Python%20%5BSwaroop%20Chitlur%5D.pdf)
 * Automate the Boring Stuff with Python [Al Sweigart, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Automate%20the%20Boring%20Stuff%20with%20Python%20%5BAl%20Sweigart%2C%202015%5D.pdf)
@@ -25,7 +25,7 @@ Biblioteca Digital de Livros Técnicos
 * Think Python, 2nd Edition [Allen Downey, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Think%20Python%2C%202nd%20Edition%20%5BAllen%20Downey%2C%202016%5D.pdf)
 * Web Scrapping with Python [Ryan Mitchell, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Web%20Scrapping%20with%20Python%20%5BRyan%20Mitchell%2C%202015%5D.pdf)
 
-## Django
+## :pushpin: Django
 
 * How to Tango with Django [L. Azzopardi, D. Maxwell, 2018] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/How%20to%20Tango%20with%20Django%20%5BL.%20Azzopardi%2C%20D.%20Maxwell%2C%202018%5D.pdf)
 * Beginning Django CMS [Nigel George, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Beginning%20Django%20CMS%20%5BNigel%20George%2C%202015%5D.pdf)
@@ -39,7 +39,7 @@ Biblioteca Digital de Livros Técnicos
 * Test-Driven Development with Django [Kevin Harvey, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Test-Driven%20Development%20with%20Django%20%5BKevin%20Harvey%2C%202015%5D.pdf)
 * Web Development with Django Cookbook - 2nd Edition [Aidas Bendoraitis, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Web%20Development%20with%20Django%20Cookbook%20-%202nd%20Edition%20%5BAidas%20Bendoraitis%2C%202016%5D.pdf)
 
-## ElasticSearch
+## :pushpin: ElasticSearch
 
 * Beginning Elastic Stack [Vishal Sharma, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/ElasticSearch/Beginning%20Elastic%20Stack%20%5BVishal%20Sharma%2C%202016%5D.pdf)
 * Elasticsearch 5.x Cookbook - Third Edition [Alberto Paro, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/ElasticSearch/Elasticsearch%205.x%20Cookbook%20-%20Third%20Edition%20%5BAlberto%20Paro%2C%202017%5D.pdf)
@@ -61,13 +61,13 @@ Biblioteca Digital de Livros Técnicos
 * Relevant Search [D. Turnbull, J. Berryman, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/ElasticSearch/Relevant%20Search%20%5BD.%20Turnbull%2C%20J.%20Berryman%2C%202016%5D.pdf)
 * The Logstash Book [James Turnbull, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/ElasticSearch/The%20Logstash%20Book%20%5BJames%20Turnbull%2C%202016%5D.pdf)
 
-## HTTP:
+## :pushpin: HTTP:
 
 * HTTP Essentials [Stephen Thomas, 2001] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/HTTP/HTTP%20Essentials%20%5BStephen%20Thomas%2C%202001%5D.pdf)
 * HTTP - The Definitive Guide [D. Gourley, B. Totty, 2002] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/HTTP/HTTP%20-%20The%20Definitive%20Guide%20%5BD.%20Gourley%2C%20B.%20Totty%2C%202002%5D.pdf)
 * Learning HTTP2 [Stephen Ludin, Javier Garza, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/HTTP/Learning%20HTTP2%20%5BStephen%20Ludin%2C%20Javier%20Garza%2C%202017%5D.pdf)
 
-## Nginx:
+## :pushpin: Nginx:
 
 * Complete NGINX Cookbook [Derek DeJonghe, 2019] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Nginx/Complete%20NGINX%20Cookbook%20%5BDerek%20DeJonghe%2C%202019%5D.pdf)
 * Nginx Essentials [Valery Kholodkov, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Nginx/Nginx%20Essentials%20%5BValery%20Kholodkov%2C%202015%5D.pdf)
