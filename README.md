@@ -32,7 +32,6 @@ Biblioteca Digital de Livros Técnicos
 * Beginning Django [Daniel Rubio, 2017] [[Download]]()
 * Django JavaScript Integration: AJAX and jQuery [Jonathan Hayward, 2011] [[Download]]()
 * Django Project Blueprints [Asad Jibran Ahmed, 2016] [[Download]]()
-* How to Tango with Django [L. Azzopardi, D. Maxwell, 2018] [[Download]]()
 * Learning Website Development with Django [Ayman Hourieh, 2008] [[Download]]()
 * Lightweight Django [Julia Elman and Mark Lavin, 2015] [[Download]]()
 * Pro Django - 2nd Edition [Marty Alchin] [[Download]]()
