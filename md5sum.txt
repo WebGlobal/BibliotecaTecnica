@@ -1,0 +1,59 @@
+38e87dee1e3d02f00b28a5e632583bf9  ./Django/Beginning Django CMS [Nigel George, 2015].pdf
+7598af251fcafedbcac48f7ba5d70f3b  ./Django/Beginning Django [Daniel Rubio, 2017].pdf
+7b887c1070f29968b9061f3917cc562f  ./Django/Django JavaScript Integration: AJAX and jQuery [Jonathan Hayward, 2011].pdf
+03b86512089363e6be0d47ab324d7b16  ./Django/Django Project Blueprints [Asad Jibran Ahmed, 2016].pdf
+a69a2f044b36891eb05ca9a369b4acb3  ./Django/How to Tango with Django [L. Azzopardi, D. Maxwell, 2018].pdf
+69ad58b974cf695dbc79c228704d201f  ./Django/Learning Website Development with Django [Ayman Hourieh, 2008].pdf
+ccfb7d7f8f2a2ec8b364c3c63ecd35c1  ./Django/Lightweight Django [Julia Elman and Mark Lavin, 2015].pdf
+3ace516ec3f670d974523882057a907e  ./Django/Pro Django - 2nd Edition [Marty Alchin].pdf
+c3f58f0322b2312edfae1afe956af04e  ./Django/Python Web Development with Django [J. Forcier, P. Bissex, W. Chun, 2009].pdf
+304d9e51af2e0e975b2679ea5c0bdaa7  ./Django/Test-Driven Development with Django [Kevin Harvey, 2015].pdf
+4b81c35cb43b9ecea9ad0e064f958cf2  ./Django/Web Development with Django Cookbook - 2nd Edition [Aidas Bendoraitis, 2016].pdf
+a3f5b657942c6aa52d8c2a93d5ed750a  ./ElasticSearch/Beginning Elastic Stack [Vishal Sharma, 2016].pdf
+70952f44e2d736a415a352f67fd8becb  ./ElasticSearch/Elasticsearch 5.x Cookbook - Third Edition [Alberto Paro, 2017].pdf
+d23130d144fd115695827b35cccfbcce  ./ElasticSearch/Elasticsearch - A Complete Guide [B. Dixit, R. Kuć, M. Rogoziński, S. Chhajed, 2017].pdf
+9decd4fed9b6921e74943b52512193dc  ./ElasticSearch/Elasticsearch Blueprints [Vineeth Mohan, 2015].pdf
+d6cd73c2aea8192aa6aef7f88b64abd4  ./ElasticSearch/ElasticSearch Cookbook - Second Edition [Alberto Paro, 2015].pdf
+8d84ce32f2898cb8a7caaa7bf8a7b16c  ./ElasticSearch/ElasticSearch in Action [Gheorghe, Hinman, Russo, 2016].pdf
+0ac8577221442f7c9beb0825963a02a9  ./ElasticSearch/ElasticSearch Indexing [Hüseyin Akdoğan, 2015].pdf
+106d4ff4185f58014884e4692d195911  ./ElasticSearch/ElasticSearch Server - Second Edition [Rafał Kuć, Marek Rogoziński, 2014].pdf
+d2f26c2bb375714e037aa84f7f67a356  ./ElasticSearch/Elasticsearch - The Definitive Guide [Clinton Gormley, Zachary Tong, 2015].pdf
+0513fff835570529ff3593ac5b92d278  ./ElasticSearch/I Heart Logs [Jay Kreps, 2015].pdf
+3c708aa8a9472729095560761947e17e  ./ElasticSearch/Learning ELK Stack [Saurabh Chhajed, 2015].pdf
+1e0d1cc1862efd1d089f50fb14395bee  ./ElasticSearch/Learning Kibana 5.0 [Bahaaldine Azarmi, 2017].pdf
+9b48efb13ade9105cb94721552a56fd5  ./ElasticSearch/Mastering ElasticSearch [Rafał Kuć, Marek Rogoziński, 2013].pdf
+03200c27f141d6b03e1e5a87c8139081  ./ElasticSearch/Mastering Elasticsearch - Second Edition [Rafał Kuć, Marek Rogoziński, 2015].pdf
+03df35e7a139bb8b6aff9516938d800e  ./ElasticSearch/Mastering Elastic Stack [R. K. Gupta, Y. Gupta, 2017].pdf
+b4285c07a55aa38eabf519b3adbe5a60  ./ElasticSearch/Monitoring Elasticsearch [Dan Noble, 2016].pdf
+e6f00c5a469c66a7c11bd294939ec85e  ./ElasticSearch/Practical ELK Stack [Gurpreet S. Sachdeva, 2017].pdf
+d9db61313237427666da2258f1e77d4b  ./ElasticSearch/Relevant Search [D. Turnbull, J. Berryman, 2016].pdf
+97d3afebe0da11d6161c650f51eaa83c  ./ElasticSearch/The Logstash Book [James Turnbull, 2016].pdf
+4e328fc29d6d63034014903a3b17685a  ./HTTP/HTTP Essentials [Stephen Thomas, 2001].pdf
+4dc97eead4d3f1cfefbd0359db2c74a6  ./HTTP/HTTP - The Definitive Guide [D. Gourley, B. Totty, 2002].pdf
+14876280bbaffc4d2ed0e65669ddd692  ./HTTP/Learning HTTP2 [Stephen Ludin, Javier Garza, 2017].pdf
+f680096d867ab60d0f757a3f9fb7745e  ./Nginx/Complete NGINX Cookbook [Derek DeJonghe, 2019].pdf
+19582f6a002c548b9b135c2652c977c4  ./Nginx/Nginx Essentials [Valery Kholodkov, 2015].pdf
+42d465384982958240fba465d8497d29  ./Nginx/Nginx - From Beginner to Pro [Rahul Soni, 2016].pdf
+e5ae786e0025e87d2e7fa0b2981b0ee5  ./Python/A Byte of Python [Swaroop Chitlur].pdf
+4e0efdd614737fd66408fd43a9d5ff10  ./Python/Automate the Boring Stuff with Python [Al Sweigart, 2015].pdf
+4fa22243e6bf0fbfed88270fc9548aa7  ./Python/Data Science from Scratch - First Principles with Python [Joel Grus, 2015].pdf
+fee65e12c0358194d8f158e1ea5d8090  ./Python/Data Structures and Algorithms in Python [Goodrich, Tamassia, Goldwasser, 2013].pdf
+3cc8f6b894bdccf68ab0b8f53dfd8613  ./Python/Deep Learning with Python - A Hands-on Introduction [Nikhil Ketkar, 2017].pdf
+a5244908640c3fb5b5b03e189d22c591  ./Python/Deep Learning with Python [Chollet, 2018].pdf
+5fb4755551e96acf31bd64d9585f7760  ./Python/Hands-On Machine Learning with Scikit-Learn and TensorFlow [Aurélien Géron, 2017].pdf
+82324f618a0d3da801abc89c48abe539  ./Python/Introducing Python - Modern Computing in Simple Packages [Bill Lubanovic, 2015].pdf
+d705a383577f1e0b8b9485bce517dc50  ./Python/Lean Python - Learn Just Enough Python to Build Useful Tools [Paul Gerrard, 2016].pdf
+aebe8e408bd541a1af216c47f8325eac  ./Python/Learning Python - 3th Edition [Mark Lutz, 2008].pdf
+dc08b51c4a7a9e3af2afa5aa818c1d56  ./Python/Learning Python, 5th Edition [Mark Lutz, 2013].pdf
+78f2c7ecaecd14a6dfa2b3e51ca66663  ./Python/Learning Python Design Patterns [Gennadiy Zlobin, 2013].pdf
+3ea10b80525986dd4c01dbf23678272f  ./Python/Lear Python The Hard Way [Zed A. Shaw, 2014].pdf
+f4726515463e1699de63911141b0f35e  ./Python/Natural Language Processing with Python [S. Bird, E. Klein, and E. Loper, 2009].pdf
+a3fb05447c640c2525fc5c3810215c8d  ./Python/Programming Computer Vision with Python [Jan Erik Solem, 2012].pdf
+b0de59129d35b87b84696f06bb7f609c  ./Python/Python 3 Patterns, Recipes and Idioms [Bruce Eckel, 2017].pdf
+8ab2389ccc9051f364f49c26bbf0562e  ./Python/Python All in One For Dummies [John Shovic and Alan Simpson, 2019].pdf
+776f274eb13abc0b661928437338c0d6  ./Python/Python Crash Course [Eric Matthes, 2016].pdf
+35c86192ae8366a4397fa1fcd9bfd154  ./Python/Python for Data Analysis - 2nd-Edition [William McKinney, 2018].pdf
+76c1629372ef61f1a600117a71016573  ./Python/Python Machine Learning [Sebastian Raschka, 2015].pdf
+892bcbf3281ca0deb95f4531ffceed52  ./Python/Python Pocket Reference, 5th edition [Mark Lutz, 2014].pdf
+ceef7f4c0e59c6ebd657ea9f6328cb7a  ./Python/Think Python, 2nd Edition [Allen Downey, 2016].pdf
+5d9c319d6aadf2dda78d356cd6a5cdcd  ./Python/Web Scrapping with Python [Ryan Mitchell, 2015].pdf
