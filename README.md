@@ -3,28 +3,28 @@ Biblioteca Digital de Livros Técnicos
 
 ## Python
 
-* A Byte of Python [Swaroop Chitlur]
-* Automate the Boring Stuff with Python [Al Sweigart, 2015]
-* Data Science from Scratch - First Principles with Python [Joel Grus, 2015]
-* Data Structures and Algorithms in Python [Goodrich, Tamassia, Goldwasser, 2013]
-* Deep Learning with Python - A Hands-on Introduction [Nikhil Ketkar, 2017]
-* Deep Learning with Python [Chollet, 2018]
-* Hands-On Machine Learning with Scikit-Learn and TensorFlow [Aurélien Géron, 2017]
-* How to Tango with Django [L. Azzopardi, D. Maxwell, 2018]
-* Introducing Python - Modern Computing in Simple Packages [Bill Lubanovic, 2015]
-* Lean Python - Learn Just Enough Python to Build Useful Tools [Paul Gerrard, 2016]
-* Learning Python - 3th Edition [Mark Lutz, 2008]
-* Learning Python, 5th Edition [Mark Lutz, 2013]
-* Lear Python The Hard Way [Zed A. Shaw, 2014]
-* Natural Language Processing with Python [S. Bird, E. Klein, and E. Loper, 2009]
-* Programming Computer Vision with Python [Jan Erik Solem, 2012]
-* Python All in One For Dummies [John Shovic and Alan Simpson, 2019]
-* Python Crash Course [Eric Matthes, 2016]
-* Python for Data Analysis - 2nd-Edition [William McKinney, 2018]
-* Python Machine Learning [Sebastian Raschka, 2015]
-* Python Pocket Reference, 5th edition [Mark Lutz, 2014]
-* Think Python, 2nd Edition [Allen Downey, 2016]
-* Web Scrapping with Python [Ryan Mitchell, 2015]
+* A Byte of Python [Swaroop Chitlur] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/A%20Byte%20of%20Python%20%5BSwaroop%20Chitlur%5D.pdf)
+* Automate the Boring Stuff with Python [Al Sweigart, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Automate%20the%20Boring%20Stuff%20with%20Python%20%5BAl%20Sweigart%2C%202015%5D.pdf)
+* Data Science from Scratch - First Principles with Python [Joel Grus, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Data%20Science%20from%20Scratch%20-%20First%20Principles%20with%20Python%20%5BJoel%20Grus%2C%202015%5D.pdf)
+* Data Structures and Algorithms in Python [Goodrich, Tamassia, Goldwasser, 2013] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Data%20Structures%20and%20Algorithms%20in%20Python%20%5BGoodrich%2C%20Tamassia%2C%20Goldwasser%2C%202013%5D.pdf)
+* Deep Learning with Python - A Hands-on Introduction [Nikhil Ketkar, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Deep%20Learning%20with%20Python%20-%20A%20Hands-on%20Introduction%20%5BNikhil%20Ketkar%2C%202017%5D.pdf)
+* Deep Learning with Python [Chollet, 2018] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Deep%20Learning%20with%20Python%20%5BChollet%2C%202018%5D.pdf)
+* Hands-On Machine Learning with Scikit-Learn and TensorFlow [Aurélien Géron, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow%20%5BAur%C3%A9lien%20G%C3%A9ron%2C%202017%5D.pdf)
+* How to Tango with Django [L. Azzopardi, D. Maxwell, 2018] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/How%20to%20Tango%20with%20Django%20%5BL.%20Azzopardi%2C%20D.%20Maxwell%2C%202018%5D.pdf)
+* Introducing Python - Modern Computing in Simple Packages [Bill Lubanovic, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Introducing%20Python%20-%20Modern%20Computing%20in%20Simple%20Packages%20%5BBill%20Lubanovic%2C%202015%5D.pdf)
+* Lean Python - Learn Just Enough Python to Build Useful Tools [Paul Gerrard, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Lean%20Python%20-%20Learn%20Just%20Enough%20Python%20to%20Build%20Useful%20Tools%20%5BPaul%20Gerrard%2C%202016%5D.pdf)
+* Learning Python - 3th Edition [Mark Lutz, 2008] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Learning%20Python%20-%203th%20Edition%20%5BMark%20Lutz%2C%202008%5D.pdf)
+* Learning Python, 5th Edition [Mark Lutz, 2013] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Learning%20Python%2C%205th%20Edition%20%5BMark%20Lutz%2C%202013%5D.pdf)
+* Lear Python The Hard Way [Zed A. Shaw, 2014] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Lear%20Python%20The%20Hard%20Way%20%5BZed%20A.%20Shaw%2C%202014%5D.pdf)
+* Natural Language Processing with Python [S. Bird, E. Klein, and E. Loper, 2009] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Natural%20Language%20Processing%20with%20Python%20%5BS.%20Bird%2C%20E.%20Klein%2C%20and%20E.%20Loper%2C%202009%5D.pdf)
+* Programming Computer Vision with Python [Jan Erik Solem, 2012] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Programming%20Computer%20Vision%20with%20Python%20%5BJan%20Erik%20Solem%2C%202012%5D.pdf)
+* Python All in One For Dummies [John Shovic and Alan Simpson, 2019] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Python%20All%20in%20One%20For%20Dummies%20%5BJohn%20Shovic%20and%20Alan%20Simpson%2C%202019%5D.pdf)
+* Python Crash Course [Eric Matthes, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Python%20Crash%20Course%20%5BEric%20Matthes%2C%202016%5D.pdf)
+* Python for Data Analysis - 2nd-Edition [William McKinney, 2018] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Python%20for%20Data%20Analysis%20-%202nd-Edition%20%5BWilliam%20McKinney%2C%202018%5D.pdf)
+* Python Machine Learning [Sebastian Raschka, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Python%20Machine%20Learning%20%5BSebastian%20Raschka%2C%202015%5D.pdf)
+* Python Pocket Reference, 5th edition [Mark Lutz, 2014] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Python%20Pocket%20Reference%2C%205th%20edition%20%5BMark%20Lutz%2C%202014%5D.pdf)
+* Think Python, 2nd Edition [Allen Downey, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Think%20Python%2C%202nd%20Edition%20%5BAllen%20Downey%2C%202016%5D.pdf)
+* Web Scrapping with Python [Ryan Mitchell, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Web%20Scrapping%20with%20Python%20%5BRyan%20Mitchell%2C%202015%5D.pdf)
 
 ## ElasticSearch
 
