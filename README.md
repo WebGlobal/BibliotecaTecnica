@@ -24,6 +24,8 @@ Biblioteca Digital de Livros Técnicos
 * Python Pocket Reference, 5th edition [Mark Lutz, 2014] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Python%20Pocket%20Reference%2C%205th%20edition%20%5BMark%20Lutz%2C%202014%5D.pdf)
 * Think Python, 2nd Edition [Allen Downey, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Think%20Python%2C%202nd%20Edition%20%5BAllen%20Downey%2C%202016%5D.pdf)
 * Web Scrapping with Python [Ryan Mitchell, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Web%20Scrapping%20with%20Python%20%5BRyan%20Mitchell%2C%202015%5D.pdf)
+* Learning Python Design Patterns [Gennadiy Zlobin, 2013] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Learning%20Python%20Design%20Patterns%20%5BGennadiy%20Zlobin%2C%202013%5D.pdf)
+* Python 3 Patterns, Recipes and Idioms [Bruce Eckel, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Python%203%20Patterns%2C%20Recipes%20and%20Idioms%20%5BBruce%20Eckel%2C%202017%5D.pdf)
 
 ## :pushpin: Django
 
@@ -38,8 +40,6 @@ Biblioteca Digital de Livros Técnicos
 * Python Web Development with Django [J. Forcier, P. Bissex, W. Chun, 2009] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Python%20Web%20Development%20with%20Django%20%5BJ.%20Forcier%2C%20P.%20Bissex%2C%20W.%20Chun%2C%202009%5D.pdf)
 * Test-Driven Development with Django [Kevin Harvey, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Test-Driven%20Development%20with%20Django%20%5BKevin%20Harvey%2C%202015%5D.pdf)
 * Web Development with Django Cookbook - 2nd Edition [Aidas Bendoraitis, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Web%20Development%20with%20Django%20Cookbook%20-%202nd%20Edition%20%5BAidas%20Bendoraitis%2C%202016%5D.pdf)
-* Learning Python Design Patterns [Gennadiy Zlobin, 2013] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Learning%20Python%20Design%20Patterns%20%5BGennadiy%20Zlobin%2C%202013%5D.pdf)
-* Python 3 Patterns, Recipes and Idioms [Bruce Eckel, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Python%203%20Patterns%2C%20Recipes%20and%20Idioms%20%5BBruce%20Eckel%2C%202017%5D.pdf)
 
 ## :pushpin: ElasticSearch
 
