@@ -28,16 +28,16 @@ Biblioteca Digital de Livros Técnicos
 ## Django
 
 * How to Tango with Django [L. Azzopardi, D. Maxwell, 2018] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/How%20to%20Tango%20with%20Django%20%5BL.%20Azzopardi%2C%20D.%20Maxwell%2C%202018%5D.pdf)
-* Beginning Django CMS [Nigel George, 2015] [[Download]]()
-* Beginning Django [Daniel Rubio, 2017] [[Download]]()
-* Django JavaScript Integration: AJAX and jQuery [Jonathan Hayward, 2011] [[Download]]()
-* Django Project Blueprints [Asad Jibran Ahmed, 2016] [[Download]]()
-* Learning Website Development with Django [Ayman Hourieh, 2008] [[Download]]()
-* Lightweight Django [Julia Elman and Mark Lavin, 2015] [[Download]]()
-* Pro Django - 2nd Edition [Marty Alchin] [[Download]]()
-* Python Web Development with Django [J. Forcier, P. Bissex, W. Chun, 2009] [[Download]]()
-* Test-Driven Development with Django [Kevin Harvey, 2015] [[Download]]()
-* Web Development with Django Cookbook - 2nd Edition [Aidas Bendoraitis, 2016] [[Download]]()
+* Beginning Django CMS [Nigel George, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Beginning%20Django%20CMS%20%5BNigel%20George%2C%202015%5D.pdf)
+* Beginning Django [Daniel Rubio, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Beginning%20Django%20%5BDaniel%20Rubio%2C%202017%5D.pdf)
+* Django JavaScript Integration: AJAX and jQuery [Jonathan Hayward, 2011] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Django%20JavaScript%20Integration:%20AJAX%20and%20jQuery%20%5BJonathan%20Hayward%2C%202011%5D.pdf)
+* Django Project Blueprints [Asad Jibran Ahmed, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Django%20Project%20Blueprints%20%5BAsad%20Jibran%20Ahmed%2C%202016%5D.pdf)
+* Learning Website Development with Django [Ayman Hourieh, 2008] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Learning%20Website%20Development%20with%20Django%20%5BAyman%20Hourieh%2C%202008%5D.pdf)
+* Lightweight Django [Julia Elman and Mark Lavin, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Lightweight%20Django%20%5BJulia%20Elman%20and%20Mark%20Lavin%2C%202015%5D.pdf)
+* Pro Django - 2nd Edition [Marty Alchin] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Pro%20Django%20-%202nd%20Edition%20%5BMarty%20Alchin%5D.pdf)
+* Python Web Development with Django [J. Forcier, P. Bissex, W. Chun, 2009] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Python%20Web%20Development%20with%20Django%20%5BJ.%20Forcier%2C%20P.%20Bissex%2C%20W.%20Chun%2C%202009%5D.pdf)
+* Test-Driven Development with Django [Kevin Harvey, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Test-Driven%20Development%20with%20Django%20%5BKevin%20Harvey%2C%202015%5D.pdf)
+* Web Development with Django Cookbook - 2nd Edition [Aidas Bendoraitis, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/Web%20Development%20with%20Django%20Cookbook%20-%202nd%20Edition%20%5BAidas%20Bendoraitis%2C%202016%5D.pdf)
 
 ## ElasticSearch
 
