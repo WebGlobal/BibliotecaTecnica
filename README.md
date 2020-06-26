@@ -56,6 +56,6 @@ Biblioteca Digital de Livros Técnicos
 
 ## Nginx:
 
-* Complete NGINX Cookbook [Derek DeJonghe, 2019] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Nginx/)
-* Nginx Essentials [Valery Kholodkov, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Nginx/)
-* Nginx - From Beginner to Pro [Rahul Soni, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Nginx/)
+* Complete NGINX Cookbook [Derek DeJonghe, 2019] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Nginx/Complete%20NGINX%20Cookbook%20%5BDerek%20DeJonghe%2C%202019%5D.pdf)
+* Nginx Essentials [Valery Kholodkov, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Nginx/Nginx%20-%20From%20Beginner%20to%20Pro%20%5BRahul%20Soni%2C%202016%5D.pdf)
+* Nginx - From Beginner to Pro [Rahul Soni, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Nginx/Nginx%20Essentials%20%5BValery%20Kholodkov%2C%202015%5D.pdf)
