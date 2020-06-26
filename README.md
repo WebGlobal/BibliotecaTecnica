@@ -10,7 +10,6 @@ Biblioteca Digital de Livros Técnicos
 * Deep Learning with Python - A Hands-on Introduction [Nikhil Ketkar, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Deep%20Learning%20with%20Python%20-%20A%20Hands-on%20Introduction%20%5BNikhil%20Ketkar%2C%202017%5D.pdf)
 * Deep Learning with Python [Chollet, 2018] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Deep%20Learning%20with%20Python%20%5BChollet%2C%202018%5D.pdf)
 * Hands-On Machine Learning with Scikit-Learn and TensorFlow [Aurélien Géron, 2017] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow%20%5BAur%C3%A9lien%20G%C3%A9ron%2C%202017%5D.pdf)
-* How to Tango with Django [L. Azzopardi, D. Maxwell, 2018] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/How%20to%20Tango%20with%20Django%20%5BL.%20Azzopardi%2C%20D.%20Maxwell%2C%202018%5D.pdf)
 * Introducing Python - Modern Computing in Simple Packages [Bill Lubanovic, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Introducing%20Python%20-%20Modern%20Computing%20in%20Simple%20Packages%20%5BBill%20Lubanovic%2C%202015%5D.pdf)
 * Lean Python - Learn Just Enough Python to Build Useful Tools [Paul Gerrard, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Lean%20Python%20-%20Learn%20Just%20Enough%20Python%20to%20Build%20Useful%20Tools%20%5BPaul%20Gerrard%2C%202016%5D.pdf)
 * Learning Python - 3th Edition [Mark Lutz, 2008] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Learning%20Python%20-%203th%20Edition%20%5BMark%20Lutz%2C%202008%5D.pdf)
@@ -25,6 +24,21 @@ Biblioteca Digital de Livros Técnicos
 * Python Pocket Reference, 5th edition [Mark Lutz, 2014] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Python%20Pocket%20Reference%2C%205th%20edition%20%5BMark%20Lutz%2C%202014%5D.pdf)
 * Think Python, 2nd Edition [Allen Downey, 2016] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Think%20Python%2C%202nd%20Edition%20%5BAllen%20Downey%2C%202016%5D.pdf)
 * Web Scrapping with Python [Ryan Mitchell, 2015] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Python/Web%20Scrapping%20with%20Python%20%5BRyan%20Mitchell%2C%202015%5D.pdf)
+
+## Django
+
+* How to Tango with Django [L. Azzopardi, D. Maxwell, 2018] [[Download]](https://github.com/WebGlobal/BibliotecaTecnica/raw/master/Django/How%20to%20Tango%20with%20Django%20%5BL.%20Azzopardi%2C%20D.%20Maxwell%2C%202018%5D.pdf)
+* Beginning Django CMS [Nigel George, 2015] [[Download]]()
+* Beginning Django [Daniel Rubio, 2017] [[Download]]()
+* Django JavaScript Integration: AJAX and jQuery [Jonathan Hayward, 2011] [[Download]]()
+* Django Project Blueprints [Asad Jibran Ahmed, 2016] [[Download]]()
+* How to Tango with Django [L. Azzopardi, D. Maxwell, 2018] [[Download]]()
+* Learning Website Development with Django [Ayman Hourieh, 2008] [[Download]]()
+* Lightweight Django [Julia Elman and Mark Lavin, 2015] [[Download]]()
+* Pro Django - 2nd Edition [Marty Alchin] [[Download]]()
+* Python Web Development with Django [J. Forcier, P. Bissex, W. Chun, 2009] [[Download]]()
+* Test-Driven Development with Django [Kevin Harvey, 2015] [[Download]]()
+* Web Development with Django Cookbook - 2nd Edition [Aidas Bendoraitis, 2016] [[Download]]()
 
 ## ElasticSearch
 
