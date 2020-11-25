@@ -29,11 +29,11 @@ Biblioteca Digital de Livros Técnicos
 
 ## :pushpin: Selenium
 
-* Learning Selenium Testing Tools with Python [Unmesh Gundecha, 2014] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/blob/master/Selenium/Learning%20Selenium%20Testing%20Tools%20with%20Python%20%5BUnmesh%20Gundecha%2C%202014%5D.pdf)
-* Practical Web Scraping for Data Science [Broucke and Baesens, 2018] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/blob/master/Selenium/Practical%20Web%20Scraping%20for%20Data%20Science%20%5BBroucke%20and%20Baesens%2C%202018%5D.pdf)
-* Selenium Testing Tools Cookbook - 2nd Edition [Unmesh Gundecha, 2015] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/blob/master/Selenium/Selenium%20Testing%20Tools%20Cookbook%20-%202nd%20Edition%20%5BUnmesh%20Gundecha%2C%202015%5D.pdf)
-* Test-Driven Development with Python - 2nd Edition [Harry Percival, 2017] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/blob/master/Selenium/Test-Driven%20Development%20with%20Python%20-%202nd%20Edition%20%5BHarry%20Percival%2C%202017%5D.pdf)
-* Website Scraping with Python Using Beautifulsoup and Scrapy [Gábor László Hajba, 2018] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/blob/master/Selenium/Website%20Scraping%20with%20Python%20Using%20Beautifulsoup%20and%20Scrapy%20%5BG%C3%A1bor%20L%C3%A1szl%C3%B3%20Hajba%2C%202018%5D.pdf)
+* Learning Selenium Testing Tools with Python [Unmesh Gundecha, 2014] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/master/Selenium/Learning%20Selenium%20Testing%20Tools%20with%20Python%20%5BUnmesh%20Gundecha%2C%202014%5D.pdf)
+* Practical Web Scraping for Data Science [Broucke and Baesens, 2018] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/master/Selenium/Practical%20Web%20Scraping%20for%20Data%20Science%20%5BBroucke%20and%20Baesens%2C%202018%5D.pdf)
+* Selenium Testing Tools Cookbook - 2nd Edition [Unmesh Gundecha, 2015] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/master/Selenium/Selenium%20Testing%20Tools%20Cookbook%20-%202nd%20Edition%20%5BUnmesh%20Gundecha%2C%202015%5D.pdf)
+* Test-Driven Development with Python - 2nd Edition [Harry Percival, 2017] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/master/Selenium/Test-Driven%20Development%20with%20Python%20-%202nd%20Edition%20%5BHarry%20Percival%2C%202017%5D.pdf)
+* Website Scraping with Python Using Beautifulsoup and Scrapy [Gábor László Hajba, 2018] [[Download]](https://raw.githubusercontent.com/WebGlobal/BibliotecaTecnica/master/Selenium/Website%20Scraping%20with%20Python%20Using%20Beautifulsoup%20and%20Scrapy%20%5BG%C3%A1bor%20L%C3%A1szl%C3%B3%20Hajba%2C%202018%5D.pdf)
 
 ## :pushpin: Django
 
